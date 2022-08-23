@@ -1,0 +1,21 @@
+p{
+    border:2px solid pink;
+    margin: 2 em;
+    padding: 3px;
+    content: normal;
+    background-color: beige;
+    letter-spacing: 0.2em;
+    word-spacing:2em ;
+    font-style: oblique;
+    font-family: arial;
+}
+h1{
+    border:2px dashed red;
+    margin-top: 1em;
+    border-top: 3px solid green;
+    border-left: 4px solid skyblue;
+    padding: 1em 2em;
+    border:20px outset yellow;
+    background-color: beige;
+    outline: 15px dashed rebeccapurple;
+}
